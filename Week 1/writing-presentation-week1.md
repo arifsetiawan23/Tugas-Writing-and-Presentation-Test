@@ -541,12 +541,13 @@
      ``IF, IF.. Else, IF.. Else if Statement``.
 
      ```Javascript
-     function ganjilGenap(platNomor) {
-     // Tulis kode kalian di dalam fungsi ini
-     if (platNomor % 2 == 1) {
-        return ("ganjil")
+     let angka = 12
+     // kondisi
+     if (platNomor % 2 == 0) {
+        console.log ("Angka adalah Bilangan Genap")
         }
-        else { return("genap")
+        else { 
+       consolo.log("Angka adalah Bilangan Ganjil")
         }
     ```
 }
