@@ -543,7 +543,7 @@
      ```Javascript
      let angka = 12
      // kondisi
-     if (platNomor % 2 == 0) {
+     if (angka % 2 == 0) {
         console.log ("Angka adalah Bilangan Genap")
         }
         else { 
