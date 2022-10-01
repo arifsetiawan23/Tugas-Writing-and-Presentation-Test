@@ -184,7 +184,10 @@
   ```
 
 - ### **Deploy Website**
-  Deploy adalah sebuah proses untuk menyebarkan aplikasi yang sudah kita kerjakan supaya bisa digunakan oleh orang-orang. Jika aplikasi kita HTML atau Web App kita perlu mendeploy ke server. Untuk melakukan hal tersebut kita bisa menggunakan layanan yang bernama Netlify
+  Deploy adalah sebuah proses untuk menyebarkan aplikasi yang sudah kita kerjakan supaya bisa digunakan oleh orang-orang. Jika aplikasi kita HTML atau Web App kita perlu mendeploy ke server. Untuk melakukan hal tersebut kita bisa menggunakan layanan yang bernama Netlify<br>
+  Hasil Deploy :
+  <img src="Gambar/hasildeploy.png"/>
+  
 
 ## **Css**<hr>
 - ### **Pengertian & Fungsi Css**
@@ -460,17 +463,15 @@
        let benci = false;
        ```
      - **Null** - sebuah nilai yang berarti kosong atau menunjuk pada nilai yang tidak ada;
-       ```JavaScript
-       let learning = "Belajar Javascript"
-       console.log(learning); //undefined
-       ```
+       
+      
      - **Undefined** - berbeda dari null, undefined menandakan kondisi variabel yang belum diberi sebuah nilai. Jadi pernyataan "nilai variabel itu adalah undefined" sebenarnya kurang tepat, sebab variabelnya memang tidak mempunyai sebuah nilai;
 
        ```JavaScript
        let learning = "Belajar Javascript"
        console.log(learning); //undefined
        ```
-     - **Object**- sebuah kumpulan pasangan properti dan nilai. Seperti objek dalam kehidupan sehari-hari saja. Misalnya objek Apel memiliki properti warna dengan nilai merah
+     - **Object**- sebuah kumpulan pasangan properti dan nilai. Seperti objek dalam kehidupan sehari-hari saja. Misalnya objek Manusia memiliki properti nama dengan nilai Arif
 
        ```JavaScript
        let manusia = {
@@ -524,8 +525,8 @@
         - Hasil operasi yang melibatkan comparison operator adalah antara true or false
         
         ```Javascript
-        8 < 10 //Menghasilkan False
-        8 > 10 //Menghasilkan True
+        8 < 10 //Menghasilkan True
+        8 > 10 //Menghasilkan False
         ```
        - **Logical Operator**
          
