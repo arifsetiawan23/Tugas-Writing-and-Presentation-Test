@@ -311,7 +311,7 @@
 - ### **Deskripsi DOM**
   <div align="justify">
   DOM merupakan jembaatan supaya bahasa pemrograman dapat berinteraksi dengan dokumen HTML. Dengan DOM, Javascript dapat memanipulasi HTML.<br>
-  Gambar ilustrasi :<br>clear
+  Gambar ilustrasi :<br>
 
   <img src="Gambar/dom.png" style ="width:80%"/>
 - ### **DOM - Traversing Elemets**
