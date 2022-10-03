@@ -313,10 +313,11 @@
   DOM merupakan jembaatan supaya bahasa pemrograman dapat berinteraksi dengan dokumen HTML. Dengan DOM, Javascript dapat memanipulasi HTML.<br>
   Gambar ilustrasi :
 
-  <img src="Gambar/DOM.png" style ="width:80%"/>
+  <img src="Gambar/dom.png" style ="width:80%"/>
 - ### **DOM - Traversing Elemets**
   Yaitu cara menelusuri atau menjelajahi elemen - elemen menggunakan DOM. <br>
   Cara akses Traversing di bagi menjadi 3 yaitu :
+
   <img src="Gambar/traversing.png" style ="width:80%"/>
     ``
     - ### **Contoh File index.html**
