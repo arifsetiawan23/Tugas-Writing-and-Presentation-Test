@@ -41,7 +41,7 @@
     let arrHp = ["xiomy", "oppo", "samsung", "realme","iphone"]
     arrHp.push("infinix");
     
-    console.log(mobil)
+    console.log(arrHp)
     // Output : ["xiomy", "oppo", "samsung", "realme","iphone", "infinix"]
     ```
   
@@ -50,7 +50,7 @@
     let arrHp = ["xiomy", "oppo", "samsung", "realme","iphone"]
     arrHp.pop();
     
-    console.log(mobil)
+    console.log(arrHp)
     // Output : ["xiomy", "oppo", "samsung", "realme"]
     ```
   - **shift** Menghapus array pada index pertama
@@ -66,7 +66,7 @@
     let arrHp = ["xiomy", "oppo", "samsung", "realme","iphone"]
     arrHp.unshift ('pocophone')
 
-    console.log(mobil)
+    console.log(arrHp)
     // Output : ["pocophone", "xiomy", "oppo", "samsung", "realme"]
     ```
   - **sort** Mengurutkan array secara ascending maupun descending
