@@ -1,6 +1,6 @@
 # **Writing & Presentation Week 4**
 
-## **Asynchronus ~ Fetch & Async Await** <br>
+## **Asynchronus ~ Fetch & Async Await** <hr>
 ### **Async-Await()**<br>
   Async-await adalah salah satu cara untuk menangkap promise selain menggunakan then() & catch(). <br>
   Berikut untuk implementasi penggunakan async-await : <br>
@@ -18,7 +18,7 @@ asyncNonton() //Memanggil fungsi
 ```
 Pada contoh diatas, pertama kita memiliki function dengan menambahkan async didepan function yang mana berfungsi untuk menjadikan function tersebut asynchronous, dan await berfungsi menunda eksekusi hingga proses asynchronous selesai. <br>
 
-## **Fetch()** <br>
+### **Fetch()** <br>
 Fetch adalah sebuah objek promise untuk mengambil data dari API yang di handle menggunakan promise atau async-await. Nah, lalu apa itu API? API adalah jembatan komunikasi ke server untuk mendapatkan data. <br>
 Berikut untuk implementasi penggunaan fetch untuk mendapatkan data digimon: <br>
 
@@ -31,7 +31,7 @@ Berikut untuk implementasi penggunaan fetch untuk mendapatkan data digimon: <br>
 ```
 <br>
 
-# **Git & Github Lanjutan**
+## **Git & Github Lanjutan**<hr>
 Dalam materi ini, kami diajarkan untuk berkolaborasi dalam mengerjakan di satu tim yaitu dengan membuat sebuah organisasi baru di github. Untuk team leader, ada beberapa step yang harus dilakukan diantaranya : <br>
 - Terlebih dahulu membuat organisasi, caranya yaitu : <br>
 <ol>
@@ -80,7 +80,7 @@ Jika terjadi conflict (terjadi jika terdapat 1 file yang diedit oleh lebih dari 
 <li>lakukan git add, git commit & git push seperti biasa.</li>
 </ol> <br>
 
-# **Responsive Web Design**
+## **Responsive Web Design**<hrgit>
 Responsive web design adalah tampilan website yang bisa menyesuaikan dengan device pengguna. Device yang umumnya digunakan adalah laptop/PC, smartphone & tablet. <br>
 Ada beberapa teknik untuk dapat menerapkan responsive web design ini diantaranya : <br>
 - <B>viewport</B> <br>
