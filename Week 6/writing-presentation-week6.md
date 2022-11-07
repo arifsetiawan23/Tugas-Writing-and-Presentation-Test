@@ -152,7 +152,7 @@
   <div align="justify">
   Join, adalah penggabungan tabel yang dilakukan melalui kolom/key tertentu yang memiliki nilai terkait untuk mendapatkan satu set data dengan informasi lengkap.
 
-  <img src="gambar/join.png">
+  <img src="Gambar/join.png">
 
   <br>
 
@@ -210,19 +210,19 @@
         - Setiap kolom memiliki nama yang unik
         - Urutan penyimpanan data tidak menjadi masalah
     - Contoh Bentuk Unormalize (Penulis punya multiple value) :
-    <img src="gambar/unor1.png">
+    <img src="Gambar/unor1.png">
 
     - contoh bentuk 1NF :
-    <img src="gambar/nf1.png">
+    <img src="Gambar/nf1.png">
 
 - **Second Normal Form (2NF)**
     - Harus sudah dalam bentuk 1NF untuk mendapatkan 2NF
     - Menghapus beberapa subset data yang ada pada tabel dan menempatkan mereka pada tabel terpisah.
     - Contoh Bentuk Unormalize (Subset info penerbit pada 1 table):
-    <img src="gambar/unor2.png">
+    <img src="Gambar/unor2.png">
 
     - Contoh Bentuk 2NF :
-    <img src = "gambar/nf2.png">
+    <img src = "Gambar/nf2.png">
 - **Third Normal Form (3NF)**
     - Menghilangkan seluruh atribut atau field yang tidak berhubungan dengan primary key. Dengan demikian tidak ada ketergantungan transitif pada setiap kandidat key.
 
@@ -534,18 +534,18 @@ Beberapa endpoint RESTFul :
 
     <br>
 
-    <img src ="gambar/create.png">
+    <img src ="Gambar/create.png">
 
 - Update Todo By Id
     <div align="justify">Untuk Kita akan membuat sebuah routing entuk update todo by Id dengan syntax berikut
 
     <br>
 
-    <img src ="gambar/update.png">
+    <img src ="Gambar/update.png">
 
 - Delete Todo
     <div align="justify">Untuk Kita akan membuat sebuah routing entuk delete todo by Id dengan syntax berikut
 
     <br>
 
-    <img src ="gambar/delete.png">
+    <img src ="Gambar/delete.png">
